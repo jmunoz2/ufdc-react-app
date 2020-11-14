@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# ufdc-react-app
+UFDC React App
+
+## This is our first app using react.js
+- Git Repo has been crated to facilitate collaboration
+- Working from today using Git and GitHub
+-Will also create a wiki and GitHub Page
+>>>>>>> 96bd18cb02979cb15b33a728116a03bc7eae0328
