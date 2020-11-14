@@ -1,0 +1,189 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Miss", "first": "Signe", "last": "Mortensen" },
+      "location": {
+        "street": { "number": 8702, "name": "Platanvej" },
+        "city": "Samsø",
+        "state": "Nordjylland",
+        "country": "Denmark",
+        "postcode": 36343,
+        "coordinates": { "latitude": "-32.5856", "longitude": "35.1442" },
+        "timezone": {
+          "offset": "+7:00",
+          "description": "Bangkok, Hanoi, Jakarta"
+        }
+      },
+      "email": "signe.mortensen@example.com",
+      "login": {
+        "uuid": "d84cdab8-44d9-4b24-9933-2e0162808ae8",
+        "username": "browndog901",
+        "password": "christmas",
+        "salt": "sZLTlsJJ",
+        "md5": "8b6c57fd898dafdbf3351d7ac4b43a4b",
+        "sha1": "61884f532f75872832ae4a665e518f88f394d3f1",
+        "sha256": "1659dcae036b91631616c33f99f94fa1116811054294c8bc6e86618bf3a535df"
+      },
+      "dob": { "date": "1945-09-08T18:30:50.614Z", "age": 75 },
+      "registered": { "date": "2004-03-22T21:27:35.284Z", "age": 16 },
+      "phone": "15056850",
+      "cell": "97746156",
+      "id": { "name": "CPR", "value": "080945-2294" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/37.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+      },
+      "nat": "DK"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Miss", "first": "Beatrice", "last": "Morin" },
+      "location": {
+        "street": { "number": 2249, "name": "Alfred St" },
+        "city": "Wellington",
+        "state": "Nunavut",
+        "country": "Canada",
+        "postcode": "V6F 9M6",
+        "coordinates": { "latitude": "-80.3152", "longitude": "173.4856" },
+        "timezone": { "offset": "+4:30", "description": "Kabul" }
+      },
+      "email": "beatrice.morin@example.com",
+      "login": {
+        "uuid": "cb6a2893-3f62-4c3a-9a31-f9f62204e66e",
+        "username": "angrybear818",
+        "password": "tight",
+        "salt": "Aijdt5Ax",
+        "md5": "c39237b6944af625a669b63ac93582ab",
+        "sha1": "46e18baf8a542e50beeba4cc07af0c630b45171d",
+        "sha256": "028204b4e0e2770e9eb1c44cb726c6a9f58e1a3c1b23cb0aac652a4fdab90d81"
+      },
+      "dob": { "date": "1953-02-19T07:44:43.475Z", "age": 67 },
+      "registered": { "date": "2017-09-14T18:28:41.368Z", "age": 3 },
+      "phone": "236-744-0502",
+      "cell": "705-193-3305",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/14.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+      },
+      "nat": "CA"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Zouhair", "last": "Betten" },
+      "location": {
+        "street": { "number": 9047, "name": "Imkersweg" },
+        "city": "Nieuw-Beerta",
+        "state": "Groningen",
+        "country": "Netherlands",
+        "postcode": 35367,
+        "coordinates": { "latitude": "-83.6700", "longitude": "-167.5200" },
+        "timezone": {
+          "offset": "+10:00",
+          "description": "Eastern Australia, Guam, Vladivostok"
+        }
+      },
+      "email": "zouhair.betten@example.com",
+      "login": {
+        "uuid": "c2e2359c-7609-413b-891f-56419d93f7ab",
+        "username": "ticklishzebra463",
+        "password": "18436572",
+        "salt": "yiDpbYQd",
+        "md5": "7a5be8bd9ea581c1795cbe0510da7b27",
+        "sha1": "b1b4a368d99adf5c43e7b6d0ffeade9ffd1708ec",
+        "sha256": "80700ee207e29ab3571435d2d7324980a01a20765c74d4cb5072374d51ac23bc"
+      },
+      "dob": { "date": "1979-07-03T03:36:14.795Z", "age": 41 },
+      "registered": { "date": "2013-05-22T10:40:25.980Z", "age": 7 },
+      "phone": "(929)-566-6268",
+      "cell": "(545)-834-4739",
+      "id": { "name": "BSN", "value": "78883998" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/59.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+      },
+      "nat": "NL"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Jordi", "last": "Garcia" },
+      "location": {
+        "street": { "number": 5479, "name": "Ronda de Toledo" },
+        "city": "Hospitalet de Llobregat",
+        "state": "Aragón",
+        "country": "Spain",
+        "postcode": 12611,
+        "coordinates": { "latitude": "-34.8149", "longitude": "178.1332" },
+        "timezone": {
+          "offset": "+2:00",
+          "description": "Kaliningrad, South Africa"
+        }
+      },
+      "email": "jordi.garcia@example.com",
+      "login": {
+        "uuid": "0fec9546-2730-4da1-8df6-aa9f3f9aa93a",
+        "username": "smallwolf656",
+        "password": "usmc",
+        "salt": "sinV9XQF",
+        "md5": "2ac3100cdcc5f92045fe03b3c6c80761",
+        "sha1": "fa017c0e8256023a485533841b313deb5e715015",
+        "sha256": "e64b9643db037d94b85d023dd9109f67f9364c80431751dbe11e8ac082a34078"
+      },
+      "dob": { "date": "1987-02-21T17:18:58.760Z", "age": 33 },
+      "registered": { "date": "2007-05-14T23:32:54.823Z", "age": 13 },
+      "phone": "964-135-060",
+      "cell": "635-337-734",
+      "id": { "name": "DNI", "value": "53031713-W" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/73.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "King", "last": "Van de Wal" },
+      "location": {
+        "street": { "number": 4674, "name": "Hilseweg" },
+        "city": "Velpt",
+        "state": "Gelderland",
+        "country": "Netherlands",
+        "postcode": 74980,
+        "coordinates": { "latitude": "65.5065", "longitude": "6.1056" },
+        "timezone": { "offset": "+3:30", "description": "Tehran" }
+      },
+      "email": "king.vandewal@example.com",
+      "login": {
+        "uuid": "78d576b5-fcdc-4d5f-be67-9588f510423c",
+        "username": "ticklishswan401",
+        "password": "qwertyuiop",
+        "salt": "rYmhS7OJ",
+        "md5": "826ad328cc759d32d7898b2d0f1c29a3",
+        "sha1": "0825ff324be929bbda2d9b5032847d939e257fc0",
+        "sha256": "400411426b2eb95764fdb3a1e11ed1b908c6c69f8ce2d3907b80ae074ccf58ae"
+      },
+      "dob": { "date": "1985-10-20T10:43:48.870Z", "age": 35 },
+      "registered": { "date": "2010-04-30T02:37:43.967Z", "age": 10 },
+      "phone": "(450)-034-5874",
+      "cell": "(201)-180-1138",
+      "id": { "name": "BSN", "value": "77796950" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/74.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+      },
+      "nat": "NL"
+    }
+  ],
+  "info": {
+    "seed": "112e682184b78dda",
+    "results": 5,
+    "page": 1,
+    "version": "1.3"
+  }
+}

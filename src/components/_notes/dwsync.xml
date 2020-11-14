@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AboutPage.js" server="home464630328.1and1-data.host//ufdc/" local="132362708869810797" remote="132476267400000000" Dst="2" />
+<file name="App.css" server="home464630328.1and1-data.host//ufdc/" local="132405788231200936" remote="132476267400000000" Dst="2" />
+<file name="App.js" server="home464630328.1and1-data.host//ufdc/" local="132471547346740378" remote="132476267410000000" Dst="2" />
+<file name="CitationBriefView.js" server="home464630328.1and1-data.host//ufdc/" local="132465712689739879" remote="132476267410000000" Dst="2" />
+<file name="CitationPage.js" server="home464630328.1and1-data.host//ufdc/" local="132368857025281225" remote="132476267420000000" Dst="2" />
+<file name="CitationPage2.js" server="home464630328.1and1-data.host//ufdc/" local="132367926262573867" remote="132476267420000000" Dst="2" />
+<file name="CitationTableView.js" server="home464630328.1and1-data.host//ufdc/" local="132465714323104231" remote="132476267420000000" Dst="2" />
+<file name="CitationThumbnailView.js" server="home464630328.1and1-data.host//ufdc/" local="132465710896093583" remote="132476267430000000" Dst="2" />
+<file name="CollectionPage.js" server="home464630328.1and1-data.host//ufdc/" local="132471604466264141" remote="132476267430000000" Dst="2" />
+<file name="CollectionsList.js" server="home464630328.1and1-data.host//ufdc/" local="132475366413719168" remote="132476267440000000" Dst="2" />
+<file name="CollectionsPage.js" server="home464630328.1and1-data.host//ufdc/" local="132471591811603287" remote="132476267440000000" Dst="2" />
+<file name="DetailsThumnailsGrid.js" server="home464630328.1and1-data.host//ufdc/" local="132469751889145663" remote="132476267810000000" Dst="2" />
+<file name="DetailsUsingHooks.js" server="home464630328.1and1-data.host//ufdc/" local="132403400674339695" remote="132476267810000000" Dst="2" />
+<file name="DiamondFlipBook.js" server="home464630328.1and1-data.host//ufdc/" local="132465828803982359" remote="132476267820000000" Dst="2" />
+<file name="DtailsLazyLoad.js" server="home464630328.1and1-data.host//ufdc/" local="132471598839639682" remote="132476267820000000" Dst="2" />
+<file name="FlipBookPage.js" server="home464630328.1and1-data.host//ufdc/" local="132465820946933553" remote="132476267830000000" Dst="2" />
+<file name="GeneratePdf.js" server="home464630328.1and1-data.host//ufdc/" local="132471598284210562" remote="132476267830000000" Dst="2" />
+<file name="GoogleMapPage.js" server="home464630328.1and1-data.host//ufdc/" local="132471599459006863" remote="132476267830000000" Dst="2" />
+<file name="HomePage.js" server="home464630328.1and1-data.host//ufdc/" local="132471650763617714" remote="132476267840000000" Dst="2" />
+<file name="index.css" server="home464630328.1and1-data.host//ufdc/" local="132476125643581348" remote="132476267840000000" Dst="2" />
+<file name="ItemInformation.js" server="home464630328.1and1-data.host//ufdc/" local="132466486759168756" remote="132476267850000000" Dst="2" />
+<file name="JQueryPage.js" server="home464630328.1and1-data.host//ufdc/" local="132434560047651114" remote="132476267850000000" Dst="2" />
+<file name="mapStyles.js" server="home464630328.1and1-data.host//ufdc/" local="132399132032805484" remote="132476267860000000" Dst="2" />
+<file name="MaterialInformation.js" server="home464630328.1and1-data.host//ufdc/" local="132466644685336128" remote="132476267860000000" Dst="2" />
+<file name="Notes.js" server="home464630328.1and1-data.host//ufdc/" local="132466645208936390" remote="132476267870000000" Dst="2" />
+<file name="NotFoundPage.js" server="home464630328.1and1-data.host//ufdc/" local="132471590277750492" remote="132476267870000000" Dst="2" />
+<file name="PartnersGrid.js" server="home464630328.1and1-data.host//ufdc/" local="132470720840429242" remote="132476267870000000" Dst="2" />
+<file name="PartnersList.js" server="home464630328.1and1-data.host//ufdc/" local="132469901743327379" remote="132476267880000000" Dst="2" />
+<file name="PartnersPage.js" server="home464630328.1and1-data.host//ufdc/" local="132471606606455001" remote="132476267880000000" Dst="2" />
+<file name="ResultPage.js" server="home464630328.1and1-data.host//ufdc/" local="132471643504377618" remote="132476267890000000" Dst="2" />
+<file name="ResultsWithTooltip.js" server="home464630328.1and1-data.host//ufdc/" local="132465706543061038" remote="132476267890000000" Dst="2" />
+<file name="SearchAdvancedForm.js" server="home464630328.1and1-data.host//ufdc/" local="132476041699063358" remote="132476267890000000" Dst="2" />
+<file name="SearchAdvancedForm2.js" server="home464630328.1and1-data.host//ufdc/" local="132476238036854423" remote="132476267900000000" Dst="2" />
+<file name="SearchBasicForm.js" server="home464630328.1and1-data.host//ufdc/" local="132475927859283454" remote="132476267900000000" Dst="2" />
+<file name="SearchBasicFuture.js" server="home464630328.1and1-data.host//ufdc/" local="132472492040704970" remote="132476267910000000" Dst="2" />
+<file name="SearchPage.js" server="home464630328.1and1-data.host//ufdc/" local="132476039947071024" remote="132476267910000000" Dst="2" />
+<file name="SearchTips.js" server="home464630328.1and1-data.host//ufdc/" local="132476116713818642" remote="132476267920000000" Dst="2" />
+<file name="Subjects.js" server="home464630328.1and1-data.host//ufdc/" local="132466644991840843" remote="132476267920000000" Dst="2" />
+<file name="ThreeLittleKittensRowColNew.js" server="home464630328.1and1-data.host//ufdc/" local="132471597747735582" remote="132476267920000000" Dst="2" />
+</dwsync>

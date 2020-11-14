@@ -1,0 +1,56 @@
+{
+  "section": [
+    {
+      "heading": "Material Information-1",
+      "permanentLink": { "item": "AA0076866/00001" }
+    },
+    {
+      "heading": "Material Information-2",
+      "permanentLink": { "item": "AA0076866/00002" },
+      "title": { "x": "abc" },
+      "abbreviatedTitle": { "x": "other title" },
+      "creator": {
+        "x": {
+          "name": "creator of type binder",
+          "role": "binder"
+        }
+      },
+      "donor": {
+        "x": {
+          "name": "donor name",
+          "url": "http://abc"
+        }
+      },
+      "pubPlace": {
+        "x": [
+          {
+            "loc": "pub loc 1",
+            "u": "href"
+          },
+          {
+            "loc": "pub loc 2",
+            "u": "url href"
+          },
+          {
+            "loc": "location 2",
+            "u": "url href for location 2"
+          },
+          {
+            "loc": "location 3",
+            "u": "url href for location 3"
+          }
+        ]
+      },
+      "publisher": {
+        "x": {
+          "name": "publisher name",
+          "u": "url href"
+        }
+      }
+    },
+    {
+      "heading": "Material Information-1",
+      "permanentLink": { "item": "AA0076866/00001" }
+    }
+  ]
+}

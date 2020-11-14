@@ -1,0 +1,479 @@
+{
+  "UFID": "UF00078891_00001",
+  "title": "The 3 little kittens",
+  "coverImage": "0000.jpg",
+  "type": "Book",
+  "publisher": "McLoughlin Bros",
+  "pageCount": "12",
+  "language": "English",
+  "imageSrcUrl": [
+    {
+      "title": "Front Cover",
+      "src": "00000.jpg"
+    },
+    {
+      "title": "Page 1",
+      "src": "00001.jpg"
+    },
+    {
+      "title": "Page 2",
+      "src": "00002.jpg"
+    },
+
+    {
+      "title": "Page 3",
+      "src": "00003.jpg"
+    },
+
+    {
+      "title": "Page 4",
+      "src": "00004.jpg"
+    },
+
+    {
+      "title": "Page 5",
+      "src": "00005.jpg"
+    },
+
+    {
+      "title": "Page 6",
+      "src": "00006.jpg"
+    },
+
+    {
+      "title": "Page 7",
+      "src": "00007.jpg"
+    },
+
+    {
+      "title": "Page 8",
+      "src": "00008.jpg"
+    },
+    {
+      "title": "Page 9",
+      "src": "00009.jpg"
+    },
+    {
+      "title": "Page 10",
+      "src": "00010.jpg"
+    },
+    {
+      "title": "Page 11",
+      "src": "00001.jpg"
+    },
+    {
+      "title": "Page 12",
+      "src": "00002.jpg"
+    },
+
+    {
+      "title": "Page 13",
+      "src": "00003.jpg"
+    },
+
+    {
+      "title": "Page 14",
+      "src": "00004.jpg"
+    },
+
+    {
+      "title": "Page 15",
+      "src": "00005.jpg"
+    },
+
+    {
+      "title": "Page 16",
+      "src": "00006.jpg"
+    },
+
+    {
+      "title": "Page 17",
+      "src": "00007.jpg"
+    },
+
+    {
+      "title": "Page 18",
+      "src": "00008.jpg"
+    },
+    {
+      "title": "Page 19",
+      "src": "00009.jpg"
+    },
+    {
+      "title": "Page 20",
+      "src": "00010.jpg"
+    },
+    {
+      "title": "Page 21",
+      "src": "00001.jpg"
+    },
+    {
+      "title": "Page 22",
+      "src": "00002.jpg"
+    },
+
+    {
+      "title": "Page 23",
+      "src": "00003.jpg"
+    },
+
+    {
+      "title": "Page 24",
+      "src": "00004.jpg"
+    },
+
+    {
+      "title": "Page 25",
+      "src": "00005.jpg"
+    },
+
+    {
+      "title": "Page 26",
+      "src": "00006.jpg"
+    },
+
+    {
+      "title": "Page 27",
+      "src": "00007.jpg"
+    },
+
+    {
+      "title": "Page 28",
+      "src": "00008.jpg"
+    },
+    {
+      "title": "Page 29",
+      "src": "00009.jpg"
+    },
+    {
+      "title": "Page 30",
+      "src": "00010.jpg"
+    },
+    {
+      "title": "Page 31",
+      "src": "00001.jpg"
+    },
+    {
+      "title": "Page 32",
+      "src": "00002.jpg"
+    },
+
+    {
+      "title": "Page 33",
+      "src": "00003.jpg"
+    },
+
+    {
+      "title": "Page 34",
+      "src": "00004.jpg"
+    },
+
+    {
+      "title": "Page 35",
+      "src": "00005.jpg"
+    },
+
+    {
+      "title": "Page 36",
+      "src": "00006.jpg"
+    },
+
+    {
+      "title": "Page 37",
+      "src": "00007.jpg"
+    },
+
+    {
+      "title": "Page 38",
+      "src": "00008.jpg"
+    },
+    {
+      "title": "Page 39",
+      "src": "00009.jpg"
+    },
+    {
+      "title": "Page 40",
+      "src": "00010.jpg"
+    },
+    {
+      "title": "Page 41",
+      "src": "00001.jpg"
+    },
+    {
+      "title": "Page 42",
+      "src": "00002.jpg"
+    },
+
+    {
+      "title": "Page 43",
+      "src": "00003.jpg"
+    },
+
+    {
+      "title": "Page 44",
+      "src": "00004.jpg"
+    },
+
+    {
+      "title": "Page 45",
+      "src": "00005.jpg"
+    },
+
+    {
+      "title": "Page 46",
+      "src": "00006.jpg"
+    },
+
+    {
+      "title": "Page 47",
+      "src": "00007.jpg"
+    },
+
+    {
+      "title": "Page 48",
+      "src": "00008.jpg"
+    },
+    {
+      "title": "Page 49",
+      "src": "00009.jpg"
+    },
+    {
+      "title": "Page 50",
+      "src": "00010.jpg"
+    },
+    {
+      "title": "Page 51",
+      "src": "00001.jpg"
+    },
+    {
+      "title": "Page 52",
+      "src": "00002.jpg"
+    },
+
+    {
+      "title": "Page 53",
+      "src": "00003.jpg"
+    },
+
+    {
+      "title": "Page 54",
+      "src": "00004.jpg"
+    },
+
+    {
+      "title": "Page 55",
+      "src": "00005.jpg"
+    },
+
+    {
+      "title": "Page 56",
+      "src": "00006.jpg"
+    },
+
+    {
+      "title": "Page 57",
+      "src": "00007.jpg"
+    },
+
+    {
+      "title": "Page 58",
+      "src": "00008.jpg"
+    },
+    {
+      "title": "Page 59",
+      "src": "00009.jpg"
+    },
+    {
+      "title": "Page 60",
+      "src": "00010.jpg"
+    },
+    {
+      "title": "Page 61",
+      "src": "00001.jpg"
+    },
+    {
+      "title": "Page 62",
+      "src": "00002.jpg"
+    },
+
+    {
+      "title": "Page 63",
+      "src": "00003.jpg"
+    },
+
+    {
+      "title": "Page 64",
+      "src": "00004.jpg"
+    },
+
+    {
+      "title": "Page 65",
+      "src": "00005.jpg"
+    },
+
+    {
+      "title": "Page 66",
+      "src": "00006.jpg"
+    },
+
+    {
+      "title": "Page 67",
+      "src": "00007.jpg"
+    },
+
+    {
+      "title": "Page 68",
+      "src": "00008.jpg"
+    },
+    {
+      "title": "Page 69",
+      "src": "00009.jpg"
+    },
+    {
+      "title": "Page 70",
+      "src": "00010.jpg"
+    },
+    {
+      "title": "Page 71",
+      "src": "00001.jpg"
+    },
+    {
+      "title": "Page 72",
+      "src": "00002.jpg"
+    },
+
+    {
+      "title": "Page 73",
+      "src": "00003.jpg"
+    },
+
+    {
+      "title": "Page 74",
+      "src": "00004.jpg"
+    },
+
+    {
+      "title": "Page 75",
+      "src": "00005.jpg"
+    },
+
+    {
+      "title": "Page 76",
+      "src": "00006.jpg"
+    },
+
+    {
+      "title": "Page 77",
+      "src": "00007.jpg"
+    },
+
+    {
+      "title": "Page 78",
+      "src": "00008.jpg"
+    },
+    {
+      "title": "Page 79",
+      "src": "00009.jpg"
+    },
+    {
+      "title": "Page 80",
+      "src": "00010.jpg"
+    },
+    {
+      "title": "Page 81",
+      "src": "00001.jpg"
+    },
+    {
+      "title": "Page 82",
+      "src": "00002.jpg"
+    },
+
+    {
+      "title": "Page 83",
+      "src": "00003.jpg"
+    },
+
+    {
+      "title": "Page 84",
+      "src": "00004.jpg"
+    },
+
+    {
+      "title": "Page 85",
+      "src": "00005.jpg"
+    },
+
+    {
+      "title": "Page 86",
+      "src": "00006.jpg"
+    },
+
+    {
+      "title": "Page 87",
+      "src": "00007.jpg"
+    },
+
+    {
+      "title": "Page 88",
+      "src": "00008.jpg"
+    },
+    {
+      "title": "Page 89",
+      "src": "00009.jpg"
+    },
+    {
+      "title": "Page 90",
+      "src": "00010.jpg"
+    },
+    {
+      "title": "Page 91",
+      "src": "00001.jpg"
+    },
+    {
+      "title": "Page 92",
+      "src": "00002.jpg"
+    },
+
+    {
+      "title": "Page 93",
+      "src": "00003.jpg"
+    },
+
+    {
+      "title": "Page 94",
+      "src": "00004.jpg"
+    },
+
+    {
+      "title": "Page 95",
+      "src": "00005.jpg"
+    },
+
+    {
+      "title": "Page 96",
+      "src": "00006.jpg"
+    },
+
+    {
+      "title": "Page 97",
+      "src": "00007.jpg"
+    },
+
+    {
+      "title": "Page 98",
+      "src": "00008.jpg"
+    },
+    {
+      "title": "Page 99",
+      "src": "00009.jpg"
+    },
+    {
+      "title": "Page 100",
+      "src": "00010.jpg"
+    },
+    {
+      "title": "Back Cover",
+      "src": "00011.jpg"
+    }
+  ]
+}
